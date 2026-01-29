@@ -17,7 +17,7 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-boujnah-18663326a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaithemBoujnah)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaithemBoujnah)
 
 ---
 
@@ -28,8 +28,8 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -69,6 +69,7 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![RMI](https://img.shields.io/badge/RMI-6C7A89?style=for-the-badge)
+![CORBA](https://img.shields.io/badge/CORBA-FF4500?style=for-the-badge)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-00BFFF?style=for-the-badge)
 
 ---
