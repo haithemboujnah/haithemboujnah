@@ -2,7 +2,7 @@
 
 💫 **About Me**
 
-I'm a passionate **Software Engineer** with a strong interest in **Artificial Intelligence**, **MLOps**, and modern **software architectures**.  
+I'm a passionate **Software Engineer** with a strong interest in **Artificial Intelligence**, **intelligent systems**, and modern **software architectures**.  
 I enjoy transforming ideas into real-world solutions by combining solid engineering principles with cutting-edge technologies.
 
 I have experience working across:
@@ -18,7 +18,7 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-boujnah-18663326a/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haithemboujnah1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haithemboujnah1@gmail.com)
 
 ---
 
