@@ -1,16 +1,23 @@
-## Hi there 👋
+💫 About Me
+Hello! I'm Haithem Boujnah, a passionate Software Engineer 👋
+I'm a software engineer with a strong interest in MLOps practices and AI technologies. I love leveraging cutting-edge technology to solve real-world problems and improve user experiences. Whether working on backend systems, machine learning models, or cloud infrastructure, I'm driven by a commitment to innovation and impact.
 
-<!--
-**haithemboujnah/haithemboujnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Connect with Me
+Feel free to reach out or connect with me on social platforms:
 
-Here are some ideas to get you started:
+LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+📚 Frameworks and Libraries
+Flutter Hadoop Yolov5 TensorFlow
+
+🖥️ Programming Languages
+Java C C++ Python JavaScript PHP HTML CSS
+
+🗄️ Databases
+Oracle MySQL HBase
+
+📈 Profile Views
+
+
+Thank you for visiting my profile! I'm excited to connect, collaborate, and build amazing things together. 🌟
