@@ -1,23 +1,91 @@
-💫 About Me
-Hello! I'm Haithem Boujnah, a passionate Software Engineer 👋
-I'm a software engineer with a strong interest in MLOps practices and AI technologies. I love leveraging cutting-edge technology to solve real-world problems and improve user experiences. Whether working on backend systems, machine learning models, or cloud infrastructure, I'm driven by a commitment to innovation and impact.
+# 👋 Hi, I'm Haithem Boujnah
 
-🌐 Connect with Me
-Feel free to reach out or connect with me on social platforms:
+💫 **About Me**
 
-LinkedIn
+I'm a passionate **Software Engineer** with a strong interest in **Artificial Intelligence**, **MLOps**, and modern **software architectures**.  
+I enjoy transforming ideas into real-world solutions by combining solid engineering principles with cutting-edge technologies.
 
-💻 Tech Stack
-📚 Frameworks and Libraries
-Flutter Hadoop Yolov5 TensorFlow
+I have experience working across:
+- Backend & full-stack development  
+- Machine learning & AI systems  
+- Cloud-ready and scalable applications  
 
-🖥️ Programming Languages
-Java C C++ Python JavaScript PHP HTML CSS
+My goal is to build impactful, efficient, and maintainable systems that deliver real value 🚀
 
-🗄️ Databases
-Oracle MySQL HBase
+---
 
-📈 Profile Views
+## 🌐 Connect with Me
 
+Feel free to connect or reach out:
 
-Thank you for visiting my profile! I'm excited to connect, collaborate, and build amazing things together. 🌟
+- 💼 **LinkedIn**: *https://www.linkedin.com/in/haithem-boujnah-18663326a/*
+
+---
+
+## 💻 Tech Stack
+
+### 📚 Frameworks & Libraries
+- React  
+- Angular  
+- Spring Boot  
+- Express.js  
+- Flask  
+- JavaFX  
+- Node.js  
+- Android  
+- Flutter  
+- Java EE  
+- Symfony  
+
+---
+
+### 🖥️ Programming Languages
+- Java  
+- C / C++  
+- Python  
+- JavaScript  
+- PHP  
+- HTML / CSS  
+- Arduino  
+
+---
+
+### 🗄️ Databases
+- Oracle  
+- MySQL  
+- MariaDB  
+- PostgreSQL  
+- SQLite  
+- MongoDB  
+- Firebase  
+- HBase  
+- PL/SQL  
+
+---
+
+### 🌍 Web Services & Communication
+- REST  
+- SOAP  
+- RPC  
+- gRPC  
+- Kafka  
+- RabbitMQ  
+- RMI  
+- ThingSpeak  
+
+---
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=HaithemBoujnah&style=flat-square)
+
+---
+
+## 🌟 Let’s Collaborate
+
+Thank you for visiting my GitHub profile!  
+I'm always open to:
+- Collaborations  
+- Innovative project ideas  
+- Knowledge sharing  
+
+Let’s build something amazing together ✨
