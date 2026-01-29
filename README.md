@@ -16,8 +16,9 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-boujnah-18663326a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaithemBoujnah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-boujnah-18663326a/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haithemboujnah1@gmail.com)
 
 ---
 
