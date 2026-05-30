@@ -1,24 +1,29 @@
 # 👋 Hi, I'm Haithem Boujnah
 
+![Profile Views](https://komarev.com/ghpvc/?username=HaithemBoujnah&style=flat-square&color=blue)
+
+---
+
 💫 **About Me**
 
 I'm a passionate **Software Engineer** with a strong interest in **Artificial Intelligence**, **intelligent systems**, and modern **software architectures**.  
 I enjoy transforming ideas into real-world solutions by combining solid engineering principles with cutting-edge technologies.
 
-I have experience working across:
-- Backend & full-stack development  
-- Machine learning & AI systems  
-- Distributed Systems, IoT & Scalable Applications
+### 💼 What I do:
+- 🔧 Backend & full-stack development  
+- 🤖 Machine learning & AI systems  
+- 🌐 Distributed systems, IoT & scalable applications
 
-My goal is to build impactful, efficient, and maintainable systems that deliver real value 🚀
+### 🎯 My goal:
+> Build impactful, efficient, and maintainable systems that deliver real value 🚀
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-boujnah-18663326a/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haithemboujnah1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaithemBoujnah)
 
 ---
 
@@ -27,26 +32,27 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-5acd48?style=for-the-badge&logo=android&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-Black?style=for-the-badge&logo=symfony&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white)
 ![Java EE](https://img.shields.io/badge/JavaEE-007396?style=for-the-badge)
 
 ---
 
 ### 🖥️ Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -54,16 +60,19 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ---
 
 ### 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-0A1A2F?style=for-the-badge)
-
 ---
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🌍 Web Services & Messaging
 ![REST](https://img.shields.io/badge/REST-008080?style=for-the-badge)
@@ -76,11 +85,18 @@ My goal is to build impactful, efficient, and maintainable systems that deliver 
 ![CORBA](https://img.shields.io/badge/CORBA-FF4500?style=for-the-badge)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-00BFFF?style=for-the-badge)
 
+### 🧪 Testing & Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=HaithemBoujnah&style=flat-square)
+## 📊 GitHub Stats
+![Haithem's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaithemBoujnah&show_icons=true&theme=dark&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemBoujnah&layout=compact&theme=dark)
 
 ---
 
@@ -93,3 +109,7 @@ I'm always open to:
 - Knowledge sharing  
 
 Let's build something amazing together ✨
+
+---
+
+*Last updated: May 2026*
